@@ -1,0 +1,112 @@
+.gmi-new-logo-11 {
+  position: relative;
+  width: 172.99px;
+  height: 65.64px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.home2 {
+  color: var(--black);
+}
+.about-us1,
+.home2 {
+  position: relative;
+  font-weight: 500;
+  cursor: pointer;
+}
+.menu-icon1 {
+  position: relative;
+  width: 21.88px;
+  height: 19.14px;
+}
+.menu1,
+.nav-link1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.menu1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  flex-direction: column;
+}
+.nav-link1 {
+  flex: 1;
+  flex-direction: row;
+  padding: 15.158016204833984px 18.947521209716797px;
+  gap: var(--gap-18xl-9);
+}
+.navbar-button-text2 {
+  position: relative;
+  font-size: 15.16px;
+  font-weight: 500;
+  font-family: var(--paragraph-small);
+  color: var(--white);
+  text-align: right;
+}
+.nav-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 11.368512153625488px 30.31603240966797px;
+  background-color: var(--primary-text);
+  border-radius: 3.79px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.home3,
+.navbar1 {
+  position: relative;
+}
+.navbar1 {
+  margin: 0;
+  background-color: var(--white);
+  backdrop-filter: blur(28.42px);
+  border-bottom: 0.9px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  padding: 17.052766799926758px 104.21135711669922px;
+  align-items: center;
+  justify-content: space-between;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--secondary-text);
+  font-family: var(--paragraph-small);
+}
+.home3 {
+  font-weight: 500;
+  cursor: pointer;
+}
+.menus,
+.nav-link2 {
+  display: flex;
+  flex-direction: column;
+}
+.nav-link2 {
+  align-self: stretch;
+  padding: 15.158016204833984px 18.947521209716797px;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-18xl-9);
+}
+.menus {
+  position: relative;
+  background-color: var(--white);
+  width: 177px;
+  overflow: hidden;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--primary-text);
+  font-family: var(--paragraph-small);
+}

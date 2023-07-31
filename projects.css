@@ -1,0 +1,474 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.gmi-new-logo-13 {
+  position: relative;
+  width: 172.99px;
+  height: 65.64px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.home6,
+.projects7 {
+  position: relative;
+  font-weight: 500;
+  cursor: pointer;
+}
+.projects7 {
+  color: var(--primary-text);
+}
+.menu-icon3 {
+  position: relative;
+  width: 21.88px;
+  height: 19.14px;
+  display: none;
+}
+.menu3,
+.nav-link4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.menu3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  flex-direction: column;
+}
+.nav-link4 {
+  flex: 1;
+  flex-direction: row;
+  padding: 15.158016204833984px 18.947521209716797px;
+  gap: var(--gap-18xl-9);
+}
+.navbar-button-text4 {
+  position: relative;
+  font-size: var(--paragraph-size);
+  font-weight: 500;
+  font-family: var(--paragraph-small);
+  color: var(--white);
+  text-align: right;
+}
+.nav-button4,
+.navbar3 {
+  display: flex;
+  flex-direction: row;
+}
+.nav-button4 {
+  cursor: pointer;
+  border: 0;
+  padding: 11.368512153625488px 30.31603240966797px;
+  background-color: var(--primary-text);
+  border-radius: 3.79px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navbar3 {
+  align-self: stretch;
+  background-color: var(--white);
+  backdrop-filter: blur(28.42px);
+  border-bottom: 0.9px solid var(--color-gray-200);
+  padding: 17.052766799926758px 104.21135711669922px;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--secondary-text);
+}
+.projects8 {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+}
+.header3 {
+  align-self: stretch;
+  background-color: var(--color-mistyrose);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-77xl) var(--padding-335xl);
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--h1-size);
+}
+.our-cardinal-objective2 {
+  position: relative;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.our-cardinal-objective-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.we-are-commited2 {
+  font-size: var(--h2-size);
+  line-height: 120%;
+  text-align: left;
+}
+.our-goal2,
+.to-raise-a2,
+.we-are-commited2 {
+  align-self: stretch;
+  position: relative;
+}
+.our-goal2 {
+  font-weight: 500;
+}
+.to-raise-a2 {
+  font-size: var(--paragraph-size);
+  line-height: 160%;
+  font-family: var(--paragraph-small);
+}
+.bottom6 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(180deg, transparent, rgba(33, 39, 48, 0.85));
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-93xl) var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xl);
+}
+.photo-card6 {
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 416px;
+  overflow: hidden;
+  background-image: url(./public/photo-card@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.bottom7 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(180deg, transparent, rgba(33, 39, 48, 0.85));
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-37xl) var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xl);
+}
+.photo-card7 {
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 416px;
+  overflow: hidden;
+  background-image: url(./public/photo-card1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.bottom8 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(180deg, transparent, rgba(33, 39, 48, 0.85));
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-103xl) var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xl);
+}
+.photo-card8 {
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-base);
+  height: 416px;
+  overflow: hidden;
+  background-image: url(./public/photo-card4@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.col-12 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  font-size: var(--font-size-7xl);
+  color: var(--white);
+  font-family: var(--font-rubik);
+}
+.frame-container,
+.projects-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+}
+.frame-container {
+  padding: 0 var(--padding-mid);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-35xl);
+}
+.projects-inner {
+  background-color: var(--white);
+  overflow: hidden;
+  padding: var(--padding-50xl) var(--padding-80xl);
+  align-items: center;
+  justify-content: center;
+  opacity: 1;
+  text-align: center;
+}
+.projects-inner.animate {
+  animation: 1s ease 0s 1 normal forwards scale-up;
+}
+.copyright-information2 {
+  flex: 1;
+  position: relative;
+}
+.blog2,
+.contact-us2,
+.home7,
+.projects9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: var(--paragraph-small-size);
+  font-family: var(--paragraph-small);
+  color: var(--white);
+  text-align: center;
+  display: inline-block;
+  width: 38px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.blog2,
+.contact-us2,
+.projects9 {
+  width: 58px;
+}
+.contact-us2,
+.projects9 {
+  width: 67px;
+}
+.contact-us2 {
+  width: 74.88px;
+}
+.footer-links2,
+.footer2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.footer-links2 {
+  justify-content: center;
+  gap: var(--gap-sm);
+}
+.footer2 {
+  align-self: stretch;
+  background-color: var(--black);
+  padding: var(--padding-13xl) var(--padding-101xl);
+  justify-content: space-between;
+  font-size: var(--paragraph-small-size);
+  color: var(--white);
+}
+.projects6 {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--primary-text);
+  font-family: var(--paragraph-small);
+}
+@media screen and (max-width: 1200px) {
+  .menu-icon3 {
+    display: none;
+  }
+  .footer2 {
+    padding: var(--padding-11xl) var(--padding-61xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 960px) {
+  .gmi-new-logo-13 {
+    width: 152px;
+    height: 50px;
+  }
+  .home6,
+  .projects7 {
+    display: none;
+  }
+  .menu-icon3 {
+    display: flex;
+  }
+  .navbar3 {
+    padding-left: var(--padding-41xl);
+    padding-right: var(--padding-41xl);
+    box-sizing: border-box;
+  }
+  .projects8 {
+    font-size: var(--font-size-21xl);
+  }
+  .header3 {
+    padding-left: var(--padding-81xl);
+    padding-right: var(--padding-81xl);
+    box-sizing: border-box;
+  }
+  .we-are-commited2 {
+    font-size: var(--font-size-21xl);
+  }
+  .photo-card6,
+  .photo-card7,
+  .photo-card8 {
+    flex: unset;
+    align-self: stretch;
+  }
+  .col-12,
+  .projects-inner {
+    flex-direction: column;
+    gap: var(--gap-xl);
+  }
+  .projects-inner {
+    gap: var(--gap-81xl);
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding-left: var(--padding-31xl);
+    padding-right: var(--padding-31xl);
+    padding-bottom: var(--padding-81xl);
+    box-sizing: border-box;
+    opacity: 1;
+  }
+  .projects-inner.animate {
+    animation: 1s ease 0s 1 normal forwards scale-up;
+  }
+  @keyframes scale-up {
+    0% {
+      transform: scale(0.5);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  .copyright-information2 {
+    text-align: center;
+  }
+  .footer-links2 {
+    display: none;
+  }
+  .footer2 {
+    padding: var(--padding-10xl) var(--padding-21xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .gmi-new-logo-13 {
+    width: 100px;
+    height: 36px;
+  }
+  .navbar3 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+  .projects8 {
+    font-size: var(--font-size-11xl);
+  }
+  .header3 {
+    padding-left: var(--padding-31xl);
+    padding-right: var(--padding-31xl);
+    box-sizing: border-box;
+  }
+  .our-cardinal-objective2 {
+    font-size: var(--drop-menu-menu-size);
+  }
+  .we-are-commited2 {
+    font-size: var(--font-size-7xl);
+    line-height: 30px;
+    text-align: center;
+  }
+  .frame-container,
+  .projects-inner {
+    align-items: center;
+    justify-content: center;
+  }
+  .projects-inner {
+    padding-left: var(--padding-31xl);
+    padding-right: var(--padding-31xl);
+    box-sizing: border-box;
+    opacity: 1;
+  }
+  .projects-inner.animate {
+    animation: 1s ease 0s 1 normal forwards scale-up;
+  }
+  @keyframes scale-up {
+    0% {
+      transform: scale(0.5);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  .footer2 {
+    padding: var(--padding-9xl) var(--padding-5xl);
+    box-sizing: border-box;
+  }
+}
+.home3 {
+  position: relative;
+  font-weight: 500;
+  cursor: pointer;
+}
+.menus,
+.nav-link2 {
+  display: flex;
+  flex-direction: column;
+}
+.nav-link2 {
+  align-self: stretch;
+  padding: 15.158016204833984px 18.947521209716797px;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-18xl-9);
+}
+.menus {
+  position: relative;
+  background-color: var(--white);
+  width: 177px;
+  overflow: hidden;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--primary-text);
+  font-family: var(--paragraph-small);
+}

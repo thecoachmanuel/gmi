@@ -1,0 +1,33 @@
+.home3 {
+  position: relative;
+  font-weight: 500;
+  cursor: pointer;
+}
+.menus,
+.nav-link2 {
+  display: flex;
+  flex-direction: column;
+}
+.nav-link2 {
+  align-self: stretch;
+  padding: 15.158016204833984px 18.947521209716797px;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-18xl-9);
+}
+.menus {
+  position: relative;
+  background-color: var(--white);
+  width: 177px;
+  overflow: hidden;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--paragraph-size);
+  color: var(--primary-text);
+  font-family: var(--paragraph-small);
+}
